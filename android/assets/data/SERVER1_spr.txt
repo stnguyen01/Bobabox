@@ -1,0 +1,145 @@
+SERVER1_spr.png
+size: 1208, 1308
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Server/SERVER1_spr-32
+  rotate: false
+  xy: 0, 0
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-33
+  rotate: false
+  xy: 241, 0
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-34
+  rotate: false
+  xy: 482, 0
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-35
+  rotate: false
+  xy: 723, 0
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-36
+  rotate: false
+  xy: 964, 0
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-37
+  rotate: false
+  xy: 0, 327
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-38
+  rotate: false
+  xy: 241, 327
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-39
+  rotate: false
+  xy: 482, 327
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-40
+  rotate: false
+  xy: 723, 327
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-41
+  rotate: false
+  xy: 964, 327
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-42
+  rotate: false
+  xy: 0, 654
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-43
+  rotate: false
+  xy: 241, 654
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-44
+  rotate: false
+  xy: 482, 654
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-45
+  rotate: false
+  xy: 723, 654
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-46
+  rotate: false
+  xy: 964, 654
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-47
+  rotate: false
+  xy: 0, 981
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-48
+  rotate: false
+  xy: 241, 981
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-49
+  rotate: false
+  xy: 482, 981
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-50
+  rotate: false
+  xy: 723, 981
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
+Server/SERVER1_spr-51
+  rotate: false
+  xy: 964, 981
+  size: 241, 327
+  orig: 241, 327
+  offset: 0, 0
+  index: -1
